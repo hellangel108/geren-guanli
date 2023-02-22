@@ -12,3 +12,11 @@ web-build/
 
 # macOS
 .DS_Store
+
+
+# packages
+package-lock.json
+yarn.lock
+yarn-error.log
+.eslintcache
+
